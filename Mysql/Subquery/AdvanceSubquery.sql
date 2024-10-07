@@ -1,4 +1,4 @@
-use dummydb;
+use dummydb; -- https://github.com/sadibhaque/Databese/blob/main/Mysql/Databases/dummydb.sql
 
 SELECT * FROM employees;
 SELECT * FROM jobs;
